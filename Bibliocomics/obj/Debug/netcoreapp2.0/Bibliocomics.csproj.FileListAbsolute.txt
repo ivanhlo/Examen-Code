@@ -1,0 +1,11 @@
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\bin\Debug\netcoreapp2.0\Bibliocomics.deps.json
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\bin\Debug\netcoreapp2.0\Bibliocomics.runtimeconfig.json
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\bin\Debug\netcoreapp2.0\Bibliocomics.runtimeconfig.dev.json
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\bin\Debug\netcoreapp2.0\Bibliocomics.dll
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\obj\Debug\netcoreapp2.0\Bibliocomics.csprojAssemblyReference.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\obj\Debug\netcoreapp2.0\Bibliocomics.csproj.CoreCompileInputs.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\obj\Debug\netcoreapp2.0\Bibliocomics.AssemblyInfoInputs.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\obj\Debug\netcoreapp2.0\Bibliocomics.AssemblyInfo.cs
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\bin\Debug\netcoreapp2.0\Bibliocomics.pdb
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\obj\Debug\netcoreapp2.0\Bibliocomics.dll
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\Bibliocomics\obj\Debug\netcoreapp2.0\Bibliocomics.pdb

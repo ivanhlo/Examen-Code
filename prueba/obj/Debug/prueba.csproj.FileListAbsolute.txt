@@ -1,0 +1,10 @@
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\bin\Debug\prueba.exe.config
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\bin\Debug\prueba.exe
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\bin\Debug\prueba.pdb
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\obj\Debug\prueba.csprojAssemblyReference.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\obj\Debug\prueba.exe
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\prueba\obj\Debug\prueba.pdb

@@ -1,0 +1,10 @@
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\bin\ServicioB.dll.config
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\bin\ServicioB.dll
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\bin\ServicioB.pdb
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\bin\Newtonsoft.Json.dll
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\bin\Newtonsoft.Json.xml
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\obj\Debug\ServicioB.csprojAssemblyReference.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\obj\Debug\ServicioB.csproj.CoreCompileInputs.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\obj\Debug\ServicioB.csproj.CopyComplete
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\obj\Debug\ServicioB.dll
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioB\obj\Debug\ServicioB.pdb
