@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ServicioA" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ServicioA" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Comic">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:GestionErrores">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="IdCom" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IdCre" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RolCre" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Sincro" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TitCom" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Comic" nillable="true" type="tns:Comic" />
+  <xs:complexType name="GestionErrores">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CodEr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DesEr" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="GestionErrores" nillable="true" type="tns:GestionErrores" />
+</xs:schema>

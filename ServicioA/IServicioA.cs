@@ -14,23 +14,14 @@ namespace ServicioA
     {
         [OperationContract]
         //Personaje ObtenerPersonaje(string IdPer);
-        Comic ObtenerComic(string IdCom, string filtro);
+        Comic ObtenerComic(string IdPer, string filtro);
         //Creador ObtenerCreador(string IdCre);
 
 
         // Agregar aquí las operaciones del servicio
     }
-    // la clase Personaje va a obtener la información de la tabla personaje
-    [DataContract]
-    public class Personaje: GestionErrores
-    {
-        [DataMember]
-        public string NomPer { get; set; }
-        [DataMember]
-        public string Sincro { get; set; }
-    }
     // la clase Comic obtiene la información de la tabla comic
-    public class Comic: GestionErrores
+    public class Comic : GestionErrores
     {
         [DataMember]
         public string IdCre { get; set; }
@@ -43,14 +34,24 @@ namespace ServicioA
         [DataMember]
         public string Sincro { get; set; }
     }
+    /*
+    // la clase Personaje va a obtener la información de la tabla personaje
+    [DataContract]
+    public class Personaje
+    {
+        [DataMember]
+        public string NomPer { get; set; }
+        [DataMember]
+        public string Sincro { get; set; }
+    }
     // la clase Creador obtiene la información de la tabla creador
-    public class Creador: GestionErrores
+    public class Creador
     {
         [DataMember]
         public string NomCre { get; set; }
         [DataMember]
         public string Sincro { get; set; }
-    }
+    }*/
     // para heredar la gestión de los errores
     public class GestionErrores
     {

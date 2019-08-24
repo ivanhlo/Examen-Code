@@ -8,3 +8,13 @@ C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COF
 C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\obj\Debug\ServicioA.csproj.CopyComplete
 C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\obj\Debug\ServicioA.dll
 C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\obj\Debug\ServicioA.pdb
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\bin\ServicioA.dll.config
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\bin\ServicioA.dll
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\bin\ServicioA.pdb
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\bin\Newtonsoft.Json.dll
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\bin\Newtonsoft.Json.xml
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\obj\Debug\ServicioA.csprojAssemblyReference.cache
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\obj\Debug\ServicioA.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\obj\Debug\ServicioA.csproj.CopyComplete
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\obj\Debug\ServicioA.dll
+C:\Users\ivan_\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\ServicioA\obj\Debug\ServicioA.pdb

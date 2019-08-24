@@ -1,0 +1,11 @@
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\bin\Debug\netcoreapp2.0\WebApiDePrueba.deps.json
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\bin\Debug\netcoreapp2.0\WebApiDePrueba.runtimeconfig.json
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\bin\Debug\netcoreapp2.0\WebApiDePrueba.runtimeconfig.dev.json
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\bin\Debug\netcoreapp2.0\WebApiDePrueba.dll
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\bin\Debug\netcoreapp2.0\WebApiDePrueba.pdb
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\obj\Debug\netcoreapp2.0\WebApiDePrueba.csprojAssemblyReference.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\obj\Debug\netcoreapp2.0\WebApiDePrueba.csproj.CoreCompileInputs.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\obj\Debug\netcoreapp2.0\WebApiDePrueba.AssemblyInfoInputs.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\obj\Debug\netcoreapp2.0\WebApiDePrueba.AssemblyInfo.cs
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\obj\Debug\netcoreapp2.0\WebApiDePrueba.dll
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\COFEPRIS\DESP\Temas\Examen\Proys\BibliotecaComicsWS\WebApiDePrueba\obj\Debug\netcoreapp2.0\WebApiDePrueba.pdb
